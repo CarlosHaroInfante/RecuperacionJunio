@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\bin\Debug\net7.0\RecuperacionJunio.exe
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\bin\Debug\net7.0\RecuperacionJunio.deps.json
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\bin\Debug\net7.0\RecuperacionJunio.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\bin\Debug\net7.0\RecuperacionJunio.dll
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\bin\Debug\net7.0\RecuperacionJunio.pdb
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.dll
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\refint\RecuperacionJunio.dll
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.pdb
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\RecuperacionJunio.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\RecuperacionJunio\obj\Debug\net7.0\ref\RecuperacionJunio.dll
